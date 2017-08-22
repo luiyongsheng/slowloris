@@ -5,5 +5,5 @@ Slowloris is a type of denial of service attack tool invented by Robert "RSnake"
 
 ## Vulnerable Sites
 ```
-...
+https://elearning4.tarc.edu.my/ [FIXED]
 ```
